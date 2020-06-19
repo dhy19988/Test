@@ -1,0 +1,3 @@
+Class pattern_parentage
+{
+}
